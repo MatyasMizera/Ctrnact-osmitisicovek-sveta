@@ -8,7 +8,7 @@ Matyáš Mizera
 
 ## **Stručný popis tématu (3–5 vět)**
 
-Osmitisícovky jsou dvanáct nejvyšších hor světa, které se nacházejí v Himalájích a Karákóramu. Jejich výška přes 8000 metrů znamená extrémní podmínky, málo kyslíku a vysoké riziko. Přesto lákají horolezce svou náročností i působivou krásou.
+Osmitisícovky jsou čtrnáct nejvyšších hor světa, které se nacházejí v Himalájích a Karákóramu. Jejich výška přes 8000 metrů znamená extrémní podmínky, málo kyslíku a vysoké riziko. Přesto lákají horolezce svou náročností i působivou krásou.
 
 ## **Cílová skupina**
 
@@ -44,11 +44,11 @@ _(Žák může doplnit ruční skicu, schéma nebo jednoduchý digitální wiref
 
 - **Frontend:** HTML, CSS, JavaScript
     
-- **Data:** JSON soubory pro čtyři textové sekce + JSON nabídka štěňat
+- **Data:** JSON soubor
     
-- **AJAX:** načítání obsahu sekcí a seznamu štěňat
+- **AJAX:** načítání obsahu sekcí
     
-- **Backend:** pravděpodobně Python nebo PHP 
+- **Backend:** PHP 
     
 - **Verzování:** Git + GitHub (repozitář dostupný vyučujícímu)
     
@@ -72,5 +72,3 @@ _(Žák může doplnit ruční skicu, schéma nebo jednoduchý digitální wiref
 - zlepšení dovedností v JavaSciptu, pythonu 
     
 - zlepšení dovedností s kombinovaným několika jazycích 
-    
-
