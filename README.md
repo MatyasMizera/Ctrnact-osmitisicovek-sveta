@@ -1,6 +1,6 @@
 ## **Název projektu**
 
-**Dvanáct osmitisícovek světa**
+**Čtrnáct osmitisícovek světa**
 
 ## **Žák**
 
